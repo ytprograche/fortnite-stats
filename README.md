@@ -49,3 +49,5 @@ cc       : Get info for requested creator code
 
 **Please Note:**
 If you are going to use this bot on a project I appreciate if you leave credits!
+
+[![Run on Repl.it](https://repl.it/badge/github/ytprograche/fortnite-stats)](https://repl.it/github/ytprograche/fortnite-stats)
